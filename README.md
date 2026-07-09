@@ -20,3 +20,7 @@
 - College : Hatyai Technical College
 - Program : Information Technology 
 - Year : Vocational Certificate (Voc.Cert.3)
+
+# future dreams
+- Become a Designer
+- Learn Communication Arts
