@@ -21,6 +21,12 @@
 - Program : Information Technology 
 - Year : Vocational Certificate (Voc.Cert.3)
 
+# My Hobby
+- Reading
+- Coding
+- Play Roblox
+
+
 # future dreams
 - Become a Designer
 - Learn Communication Arts
