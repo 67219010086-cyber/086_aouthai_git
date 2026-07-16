@@ -24,3 +24,7 @@
 # future dreams
 - Become a Designer
 - Learn Communication Arts
+
+# Contact
+- Facebook : Aouthai ch
+- Phone number : 099-165-8258
