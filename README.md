@@ -39,3 +39,8 @@
 - Age : 17 Year
 - Birthday : 14 April 2009
 - Country : Thai
+
+# Experience
+- college : HatYai Technical College
+- Internship Site : Adsign Graphic & Printing
+- Work : Graphic Design
