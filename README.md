@@ -34,3 +34,8 @@
 # Contact
 - Facebook : Aouthai ch
 - Phone number : 099-165-8258
+
+# Experience
+- Internship : Adsign Graphic & Printing
+- Work : Graphic Design
+- College : HatYai Technical College
