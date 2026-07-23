@@ -38,4 +38,4 @@
 # About
 - Age : 17 Year
 - Birthday : 14 April 2009
-
+- Country : Thai
